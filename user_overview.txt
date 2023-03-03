@@ -1,0 +1,24 @@
+Total number of users registered: 3
+Total number of tasks generated: 3
+----------------------------------------------------------
+User: admin
+Total number of tasks assigned to this user: 2
+Percentage of tasks assigned to this user: 66.67%
+Percentage of completed tasks: 0.0%
+Percentage of uncompleted tasks: 100.0
+Percentage of uncompleted and overdue tasks: 50.0%
+----------------------------------------------------------
+User: will
+Total number of tasks assigned to this user: 1
+Percentage of tasks assigned to this user: 33.33%
+Percentage of completed tasks: 0.0%
+Percentage of uncompleted tasks: 100.0
+Percentage of uncompleted and overdue tasks: 0.0%
+----------------------------------------------------------
+User: john
+Total number of tasks assigned to this user: 0
+Percentage of tasks assigned to this user: 0.0%
+Percentage of completed tasks: This user has no tasks assigned to him/her
+Percentage of uncompleted tasks: This user has no tasks assigned to him/her
+Percentage of uncompleted tasks: This user has no tasks assigned to him/her
+----------------------------------------------------------
